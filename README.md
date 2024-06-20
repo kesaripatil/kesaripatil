@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kesaripatil
-- 👀 I’m interested in coding, problem solving.
-- 🌱 I’m currently working in PHP.
+- 👀 I’m interested in devops, coding and problem solving.
 - 📫 How to reach me -> kesaripatil960310@gmail.com
 
 <!---
